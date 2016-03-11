@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/save"
+        android:title="@string/save"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/close"
+        android:title="@string/close"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/add"
+        android:title="@string/add"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/delete"
+        android:title="@string/delete"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/update"
+        android:title="@string/update"
+        app:showAsAction="ifRoom"
+        />
+</menu>

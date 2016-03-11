@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter">Enter Data Here ...</string>
+    <string name="close">Close App</string>
+    <string name="save">Save List</string>
+    <string name="add">Add Entry</string>
+    <string name="delete">Delete Entry</string>
+    <string name="update">Update Entry</string>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#FF999999</color>
+    <color name="blue">#FF000080</color>
+    <color name="black">#000000</color>
+    <color name="red">#FFF80000</color>
+</resources>
